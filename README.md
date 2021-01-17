@@ -6,11 +6,11 @@ Hilwa arebo__________________1224________________UI Designer<br>
 Ayenew Tilaye________________1129________________REquirment engineering<br>
 Mohammed Seid________________1275________________Tester and UI Designer<br>
 
- the main and current problem with most people is managing time and planning the full day. And the main target of our project is to solve this problem using android app that supports 92%
+ the main problem is unable to manage daily activity or to solve time wasting problem by doing things with out plainng our work so,for removing this type of problem this app is essential. And the main target of our project is to solve this problem using android app that supports 92%
 of android smart phones. Also it has the following features<br>
 		*adds daily task<br>
 		*deletes daily task when it’s completed<br>
-		*supports multiple languages: Amharic and English<br>
+		*supports 2 languages: Amharic and English<br>
 7.1 yes our application has successfully implemented the features listed in the documentation.<br>
 7.2 yes they are implemented correctly as needed.<br>
 8.1 as I mentioned earlier the app is developed based on the problem identified and
