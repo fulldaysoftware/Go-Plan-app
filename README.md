@@ -8,9 +8,9 @@ Mohammed Seid________________1275________________Tester and UI Designer<br>
 
  the main problem is unable to manage daily activity. And the main target of our project is to solve this problem using android app that supports 92%
 of android smart phones. Also it has the following features<br>
-		*adds daily task<br>
-		*deletes daily task when it’s completed<br>
-		*supports 2 languages: Amharic and English<br>
+		* adds daily task<br>
+		* deletes daily task when it’s completed<br>
+		* supports 2 languages: Amharic and English<br>
 7.1 yes our application has successfully implemented the features listed in the documentation.<br>
 7.2 yes they are implemented correctly as needed.<br>
 8.1 as I mentioned earlier the app is developed based on the problem identified and
