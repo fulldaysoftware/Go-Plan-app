@@ -1,10 +1,12 @@
-#Go Plan App<br>
-Muluken negash_______________1279________________Project manager and implementer<br>
-kaleab Beyene________________1231________________application designer and Tester<br>
-Daniel geleta________________1163________________implementer<br>
-Hilwa arebo__________________1224________________UI Designer<br>
-Ayenew Tilaye________________1129________________REquirment engineering<br>
-Mohammed Seid________________1275________________Tester and UI Designer<br>
+#Go Plan App<br>               
+     NAME                      |    ID               |        DUTIES
+ ------------------------------|---------------------|-------------------------------
+| Muluken negash_______________| 1279________________| Project manager and implementer<br>
+| kaleab Beyene________________| 1231________________| application designer and Tester<br>
+| Daniel geleta________________| 1163________________| implementer<br>
+| Hilwa arebo__________________| 1224________________| UI Designer<br>
+| Ayenew Tilaye________________| 1129________________| REquirment engineering<br>
+| Mohammed Seid________________| 1275________________| Tester and UI Designer<br>
 
  the main problem is unable to manage daily activity or to solve time wasting problem by doing things with out plainng our work so,for removing this type of problem this app is essential. And the main target of our project is to solve this problem using android app that supports 92%
 of android smart phones. Also it has the following features<br>
